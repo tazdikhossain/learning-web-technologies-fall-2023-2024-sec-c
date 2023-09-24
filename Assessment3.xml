@@ -1,0 +1,22 @@
+<information>
+    <person id="1">
+        <name> John Doe </name>
+        <address> H# 38, R#3, Banani, Dhaka </address>
+        <department> Sales </deartment>
+        <salary> $20000 </salary> 
+    </person>
+
+    <person id="2">
+        <name> John Doe </name>
+        <address> H# 38, R#3, Banani, Dhaka </address>
+        <department> Sales </deartment>
+        <salary> $20000 </salary> 
+    </person>
+
+    <person id="3">
+        <name> John Doe </name>
+        <address> H# 38, R#3, Banani, Dhaka </address>
+        <department> Sales </deartment>
+        <salary> $20000 </salary> 
+    </person>
+</information>
