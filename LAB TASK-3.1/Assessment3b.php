@@ -1,0 +1,29 @@
+<?php
+$Date = $_REQUEST['d'];
+echo $Date;
+
+$Month = $_REQUEST['m'];
+echo $Month;
+
+$Year = $_REQUEST['y'];
+echo $Year;
+
+?>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <form method="post" action="Assessment3a.php" enctype="">
+        <fieldset>
+            <legend>Date of Birth</legend>
+              dd      mm       yyyy
+            <br>
+            <input type="text" size="1" name="d"> / <input type="text" size="1" name="m"> /<input type="text" size="1" name="y"> 
+            <hr>
+            <input type="submit">
+        </fieldset>
+    </form>
+    
+</body>
+</html>
